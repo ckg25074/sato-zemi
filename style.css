@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 html {
@@ -8,3 +9,15 @@ html {
 body {
     
 }
+=======
+@charset "UTF-8";
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+    
+}
+>>>>>>> d98993c861483aed0761cbe681cffba2d08e16d7
